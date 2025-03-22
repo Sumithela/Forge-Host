@@ -24,9 +24,11 @@ Whether you're a **developer testing your website**, a **beginner learning web h
 ### **1️⃣ Clone the Repository**  
 ```bash
 git clone https://github.com/yourusername/ForgeHost.git
-cd ForgeHost
 ```
-
+### **hange the directory**
+```bash
+cd Forge-host
+```
 ### **2️⃣ Run the Script**  
 ```bash
 python localserver.py
