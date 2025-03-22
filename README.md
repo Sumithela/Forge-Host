@@ -25,7 +25,7 @@ Whether you're a **developer testing your website**, a **beginner learning web h
 ```bash
 git clone https://github.com/yourusername/ForgeHost.git
 ```
-### **hange the directory**
+### **Change the directory**
 ```bash
 cd Forge-host
 ```
